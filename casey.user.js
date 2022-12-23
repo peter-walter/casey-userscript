@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Casey Agent Rollup
+// @name         Casey Tweaks
 // @namespace    https://maruhub.com
 // @version      0.2
 // @description  Tidy the summary page and agent list in Casey
