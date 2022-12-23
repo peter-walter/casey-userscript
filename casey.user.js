@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Casey Tweaks
 // @namespace    https://maruhub.com
-// @version      0.2
+// @version      0.3
 // @description  Tidy the summary page and agent list in Casey
 // @author       Peter Walter
 // @include      /^https:\/\/casey\.maruhub\.com\/agent\/desk\/\d+$/
