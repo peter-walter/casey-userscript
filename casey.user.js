@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Casey Agent Rollup
-// @namespace    http://tampermonkey.net/
+// @namespace    https://maruhub.com
 // @version      0.1
-// @description  Tidy the agent list in Casy
+// @description  Tidy the summary page and agent list in Casey
 // @author       Peter Walter
 // @include      /^https:\/\/casey\.maruhub\.com\/agent\/desk\/\d+$/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=maruhub.com
