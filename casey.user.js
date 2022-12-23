@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         Casey Agent Rollup
 // @namespace    https://maruhub.com
-// @version      0.1
+// @version      0.2
 // @description  Tidy the summary page and agent list in Casey
 // @author       Peter Walter
 // @include      /^https:\/\/casey\.maruhub\.com\/agent\/desk\/\d+$/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=maruhub.com
+// @downloadURL  https://github.com/peter-walter/casey-userscript/raw/main/casey.user.js
 // @grant        none
 // ==/UserScript==
 
