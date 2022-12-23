@@ -5,7 +5,8 @@
 // @description  Tidy the summary page and agent list in Casey
 // @author       Peter Walter
 // @include      /^https:\/\/casey\.maruhub\.com\/agent\/desk\/\d+$/
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=maruhub.com
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=maruhub.com0
+// @updateURL    https://github.com/peter-walter/casey-userscript/raw/main/casey.user.js
 // @downloadURL  https://github.com/peter-walter/casey-userscript/raw/main/casey.user.js
 // @grant        none
 // ==/UserScript==
